@@ -1,6 +1,7 @@
 [
 
     "node_modules/elliptical-observe/dist/elliptical-observe.js",
-    "node_modules/elliptical-nodebind/dist/nodebind.js"
+    "node_modules/elliptical-nodebind/dist/nodebind.js",
+    "./lib/platform.js"
 
 ]

@@ -6,6 +6,7 @@
     "node_modules/ellipsis-platform/dist/platform.js",
     "node_modules/ellipsis-element/dist/ellipsis-element.js",
     "node_modules/elliptical-observe/dist/elliptical-observe.js",
-    "node_modules/elliptical-nodebind/dist/nodebind.js"
+    "node_modules/elliptical-nodebind/dist/nodebind.js",
+    "./lib/platform.js"
 
 ]

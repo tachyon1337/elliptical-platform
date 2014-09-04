@@ -1,0 +1,11 @@
+[
+
+    "node_modules/ellipsis-utils/dist/ellipsis-utils.js",
+    "node_modules/ellipsis-touch/dist/ellipsis-touch.js",
+    "node_modules/ellipsis-animation/dist/ellipsis-animation.js",
+    "node_modules/ellipsis-platform/dist/platform.js",
+    "node_modules/ellipsis-element/dist/ellipsis-element.js",
+    "node_modules/elliptical-observe/dist/elliptical-observe.js",
+    "node_modules/elliptical-nodebind/dist/nodebind.js"
+
+]

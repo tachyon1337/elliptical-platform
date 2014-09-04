@@ -1,0 +1,44 @@
+{
+  "name": "elliptical-platform",
+  "description": "Elliptical Custom Element,Observer and Node Binding Platform for the Browser",
+  "version": "0.3.5",
+  "author": {
+    "name": "S. Francis"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tachyon1337/elliptical-platform.git"
+  },
+  "dependencies": {
+    "elliptical-utils": "git+https://github.com/tachyon1337/elliptical-utils.git",
+    "ellipsis-utils": "git+https://github.com/tachyon1337/ellipsis-utils.git",
+    "ellipsis-touch": "git+https://github.com/tachyon1337/ellipsis-touch.git",
+    "ellipsis-animation": "git+https://github.com/tachyon1337/ellipsis-animation.git",
+    "ellipsis-platform": "git+https://github.com/tachyon1337/ellipsis-platform.git",
+    "ellipsis-element": "git+https://github.com/tachyon1337/ellipsis-element.git",
+    "elliptical-observe": "git+https://github.com/tachyon1337/elliptical-observe.git",
+    "elliptical-nodebind": "git+https://github.com/tachyon1337/elliptical-nodebind.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-util": "^2.2.14",
+    "gulp-concat": "^2.2.0",
+    "gulp-tap": "^0.1.1",
+    "fs-extra": "^0.8.1",
+    "gulp-uglify": "^0.2.1",
+    "merge-stream": "^0.1.5"
+  },
+  "readme": "# Elliptical Platform\n\n\nElliptical Custom Element,Observer and Node Binding Platform for the Browser",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tachyon1337/elliptical-platform/issues"
+  },
+  "homepage": "https://github.com/tachyon1337/elliptical-platform",
+  "_id": "elliptical-platform@0.3.5",
+  "dist": {
+    "shasum": "3a825ae3251f18a718880a5f02e2a9101bfd587d"
+  },
+  "_resolved": "git+https://github.com/tachyon1337/elliptical-platform.git#c07e3387e7ec062cd77988fdab7b9531e56647c9",
+  "_from": "elliptical-platform@git+https://github.com/tachyon1337/elliptical-platform.git"
+}
